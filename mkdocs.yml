@@ -60,5 +60,9 @@ nav:
   - Elegoo Tumbller Kit:
     - elegoo-tumbller.md
 
+repo_url: https://github.com/anuraj-rp/yakasaur-sampledocs/
+
+repo_name: anuraj-rp/yakasaur-sampledocs
+
 copyright: |
   &copy; 2023 <a href="https://www.yakcollective.org/" target="_blank" rel="noopener">The Yak Collective</a>
