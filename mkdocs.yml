@@ -1,0 +1,64 @@
+site_name: YakRover Yakasaur Documentation
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: deep orange
+      accent: indigo
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: deep orange
+      accent: indigo
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/The-Yak-Collective/yakasaur
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@yakcollective
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Home:
+    - index.md # Landing Page
+  - Yakasaur:
+    - yakasaur.md
+  - Elegoo Tumbller Kit:
+    - elegoo-tumbller.md
+
+copyright: |
+  &copy; 2023 <a href="https://www.yakcollective.org/" target="_blank" rel="noopener">The Yak Collective</a>
