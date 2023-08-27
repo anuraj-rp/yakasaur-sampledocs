@@ -56,12 +56,10 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
-  - Home:
-    - index.md # Landing Page
-  - Yakasaur:
-    - yakasaur.md
-  - Elegoo Tumbller Kit:
-    - elegoo-tumbller.md
+  - Home: "index.md"
+  - Yakasaur: "yakasaur.md"
+  - Elegoo Tumbller Kit: "elegoo-tumbller.md"
+
 
 repo_url: https://github.com/anuraj-rp/yakasaur-sampledocs/
 
