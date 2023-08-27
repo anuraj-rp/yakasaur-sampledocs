@@ -1,4 +1,4 @@
-site_name: YakRover Yakasaur Documentation
+site_name: YakRover Docs
 theme:
   name: material
   features:
