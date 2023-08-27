@@ -1,4 +1,4 @@
-# Welcome to YakRover Yakasaur Documentation
+# Welcome to YakRover Documentation
 
 Introduction from - https://www.yakcollective.org/projects/yak-rover
 
