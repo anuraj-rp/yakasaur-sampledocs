@@ -1,7 +1,7 @@
 # Yakasaur
 
 ## Electronics
-
+Current plan is to use ESP-32 as lizard brain and RPi as neocortex
 ## Mechanics
 
 ## Software
