@@ -1,5 +1,10 @@
 # Yakasaur
 
+<figure markdown>
+  ![Yakasaur 3D Design in OnShape](images/yakasaur-3d.png){ width="300"}
+  <figcaption>Yakasaur</figcaption>
+</figure>
+
 ## Electronics
 Current plan is to use ESP-32 as lizard brain and RPi as neocortex
 ## Mechanics
